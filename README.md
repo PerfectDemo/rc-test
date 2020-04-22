@@ -3,6 +3,8 @@
 ## run front server
 ```
 cd front
+
+npm install -g parcel-bundler
 npm install
 npm run dev
 
