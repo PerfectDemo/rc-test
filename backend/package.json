@@ -27,7 +27,7 @@
     "node": ">=10.0.0"
   },
   "scripts": {
-    "start:nodaemon": "egg-scripts start --title=egg-server-rc-backend --workers=1",
+    "start": "egg-scripts start --title=egg-server-rc-backend --workers=1",
     "stop": "egg-scripts stop --title=egg-server-rc-backend",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
