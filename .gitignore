@@ -1,0 +1,6 @@
+backend/node_modules
+backend/app/static/*
+
+front/node_modules
+front/dist
+front/.cache

@@ -1,0 +1,30 @@
+2020-04-22 04:54:28,020 ERROR 14131 nodejs.ClusterClientNoResponseError: client no response in 11861601ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 14131
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-22 09:15:23,123 ERROR 14131 nodejs.ClusterClientNoResponseError: client no response in 15595078ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 14131
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-22 09:43:06,016 ERROR 14131 nodejs.ClusterClientNoResponseError: client no response in 1622889ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 14131
+hostname: bidaodeMacBook-Pro.local
+

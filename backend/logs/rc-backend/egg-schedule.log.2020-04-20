@@ -1,0 +1,78 @@
+2020-04-20 22:48:21,074 INFO 7518 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:48:21,074 INFO 7518 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:48:21,074 INFO 7518 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:48:21,700 INFO 7515 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20498305ms at 2020-04-21 04:30:00.005
+2020-04-20 22:48:21,700 INFO 7515 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4298300ms at 2020-04-21 00:00:00.000
+2020-04-20 22:48:21,700 INFO 7515 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4299300ms at 2020-04-21 00:00:01.000
+2020-04-20 22:48:21,967 INFO 7519 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:48:21,968 INFO 7519 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:48:21,968 INFO 7519 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:48:31,349 INFO 7523 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:48:31,349 INFO 7523 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:48:31,349 INFO 7523 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:49:35,243 INFO 7533 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:49:35,243 INFO 7533 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:49:35,243 INFO 7533 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:49:44,086 INFO 7540 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:49:44,086 INFO 7540 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:49:44,086 INFO 7540 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:50:09,623 INFO 7562 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:50:09,623 INFO 7562 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:50:09,623 INFO 7562 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:50:10,147 INFO 7560 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20389856ms at 2020-04-21 04:30:00.003
+2020-04-20 22:50:10,148 INFO 7560 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4189852ms at 2020-04-21 00:00:00.000
+2020-04-20 22:50:10,148 INFO 7560 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4190852ms at 2020-04-21 00:00:01.000
+2020-04-20 22:50:54,959 INFO 7585 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20345044ms at 2020-04-21 04:30:00.003
+2020-04-20 22:50:54,959 INFO 7585 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4145041ms at 2020-04-21 00:00:00.000
+2020-04-20 22:50:54,959 INFO 7585 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4146041ms at 2020-04-21 00:00:01.000
+2020-04-20 22:50:54,549 INFO 7586 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:50:54,549 INFO 7586 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:50:54,549 INFO 7586 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:51:06,789 INFO 7615 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:51:06,789 INFO 7615 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:51:06,789 INFO 7615 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:51:07,381 INFO 7613 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20332622ms at 2020-04-21 04:30:00.003
+2020-04-20 22:51:07,381 INFO 7613 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4132619ms at 2020-04-21 00:00:00.000
+2020-04-20 22:51:07,381 INFO 7613 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4133619ms at 2020-04-21 00:00:01.000
+2020-04-20 22:51:38,910 INFO 7620 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:51:38,910 INFO 7620 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:51:38,910 INFO 7620 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:51:41,975 INFO 7624 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:51:41,975 INFO 7624 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:51:41,975 INFO 7624 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:53:48,871 INFO 7670 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:53:48,871 INFO 7670 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:53:48,871 INFO 7670 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:54:22,474 INFO 7689 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:54:22,474 INFO 7689 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:54:22,474 INFO 7689 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:55:13,427 INFO 7692 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:55:13,428 INFO 7692 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:55:13,428 INFO 7692 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:55:41,696 INFO 7693 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:55:41,696 INFO 7693 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:55:41,696 INFO 7693 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:56:28,314 INFO 7700 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:56:28,314 INFO 7700 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:56:28,314 INFO 7700 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:57:24,901 INFO 7712 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:57:24,901 INFO 7712 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:57:24,901 INFO 7712 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:58:39,260 INFO 7718 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:58:39,260 INFO 7718 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:58:39,260 INFO 7718 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:59:37,268 INFO 7722 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:59:37,268 INFO 7722 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:59:37,268 INFO 7722 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 22:59:40,561 INFO 7723 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 22:59:40,562 INFO 7723 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 22:59:40,562 INFO 7723 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-20 23:01:27,474 INFO 7739 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-20 23:01:27,474 INFO 7739 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-20 23:01:27,474 INFO 7739 [egg-schedule]: register schedule /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 00:00:39,737 INFO 7739 [Job#1587398439733417602385063291] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-04-21 00:00:39,747 INFO 7739 [Job#1587398439733417602385063291] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 9ms
+2020-04-21 00:00:39,740 INFO 7613 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86360264ms at 2020-04-22 00:00:00.004
+2020-04-21 00:00:40,732 INFO 7739 [Job#1587398440730417612352474621] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-04-21 00:00:40,736 INFO 7739 [Job#1587398440730417612352474621] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 4ms
+2020-04-21 00:00:40,732 INFO 7613 [Timer] /Users/bidao/project/myself/rc-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86360269ms at 2020-04-22 00:00:01.001

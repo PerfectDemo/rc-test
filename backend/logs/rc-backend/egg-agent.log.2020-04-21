@@ -1,0 +1,556 @@
+2020-04-21 00:00:40,737 INFO 7613 [egg-logrotator] agent logger reload: got log-reload message
+2020-04-21 00:18:05,708 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 237757ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 00:33:37,130 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 931418ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 00:49:28,218 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 931084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 01:05:20,077 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 931851ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 01:21:30,864 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 930611ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 01:32:16,891 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 626012ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 02:02:31,009 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 1814109ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 02:33:05,060 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 1813708ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 03:14:27,098 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 2461682ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 03:31:19,699 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 1012265ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 03:33:00,493 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 99963ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 03:39:52,375 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 411720ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 04:20:27,448 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 2414297ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 04:51:06,469 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 1818086ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 05:01:57,407 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 630002ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 05:32:56,312 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 1817892ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 05:53:41,114 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 1224307ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 06:28:19,472 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 2057849ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 07:10:49,935 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 2530292ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 07:31:32,948 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 1222239ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 07:42:20,766 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 627143ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 08:32:46,781 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 3005178ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 08:42:53,459 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 585470ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 09:13:29,409 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 86382ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 09:40:47,722 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 1617915ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 09:44:20,400 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 172143ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 12:32:43,664 ERROR 7613 nodejs.ClusterClientNoResponseError: client no response in 1439625ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 7613
+hostname: bidaodeMacBook-Pro.local
+
+2020-04-21 13:01:00,102 INFO 9443 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 13:01:00,541 INFO 9443 [egg:core] dump config after load, 5ms
+2020-04-21 13:01:00,600 INFO 9443 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 13:01:00,600 INFO 9443 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 13:01:00,601 INFO 9443 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 13:01:00,601 INFO 9443 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 13:01:00,601 INFO 9443 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 13:01:00,601 INFO 9443 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 13:01:00,601 INFO 9443 [egg-watcher:agent] watcher start success
+2020-04-21 13:01:00,687 INFO 9443 [egg:core] dump config after ready, 5ms
+2020-04-21 13:06:06,455 WARN 9443 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/config/config.default.js change
+2020-04-21 13:06:06,252 INFO 9443 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011692,"size":1498,"blocks":8,"atimeMs":1587445566182.991,"mtimeMs":1587445566183.5317,"ctimeMs":1587445566183.5317,"birthtimeMs":1587391719069.7183,"atime":"2020-04-21T05:06:06.183Z","mtime":"2020-04-21T05:06:06.184Z","ctime":"2020-04-21T05:06:06.184Z","birthtime":"2020-04-20T14:08:39.070Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 13:06:42,668 INFO 9443 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011692,"size":1498,"blocks":8,"atimeMs":1587445602605.4062,"mtimeMs":1587445602606.4548,"ctimeMs":1587445602606.4548,"birthtimeMs":1587391719069.7183,"atime":"2020-04-21T05:06:42.605Z","mtime":"2020-04-21T05:06:42.606Z","ctime":"2020-04-21T05:06:42.606Z","birthtime":"2020-04-20T14:08:39.070Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 13:06:42,874 WARN 9443 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/config/config.default.js change
+2020-04-21 13:07:55,225 WARN 9443 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/config/config.default.js change
+2020-04-21 13:07:55,022 INFO 9443 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011692,"size":1516,"blocks":8,"atimeMs":1587445674957.5347,"mtimeMs":1587445674958.4438,"ctimeMs":1587445674958.4438,"birthtimeMs":1587391719069.7183,"atime":"2020-04-21T05:07:54.958Z","mtime":"2020-04-21T05:07:54.958Z","ctime":"2020-04-21T05:07:54.958Z","birthtime":"2020-04-20T14:08:39.070Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 16:25:34,771 INFO 10415 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 16:25:35,192 INFO 10415 [egg:core] dump config after load, 5ms
+2020-04-21 16:25:35,250 INFO 10415 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 16:25:35,251 INFO 10415 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 16:25:35,252 INFO 10415 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 16:25:35,252 INFO 10415 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 16:25:35,252 INFO 10415 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 16:25:35,252 INFO 10415 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 16:25:35,253 INFO 10415 [egg-watcher:agent] watcher start success
+2020-04-21 16:25:35,371 INFO 10415 [egg:core] dump config after ready, 28ms
+2020-04-21 17:41:45,929 ERROR 10415 nodejs.ClusterClientNoResponseError: client no response in 216022ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bidao/project/myself/rc-backend/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 10415
+hostname: bogon
+
+2020-04-21 18:42:15,510 INFO 12847 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 18:42:15,954 INFO 12847 [egg:core] dump config after load, 5ms
+2020-04-21 18:42:16,014 INFO 12847 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 18:42:16,014 INFO 12847 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 18:42:16,015 INFO 12847 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 18:42:16,015 INFO 12847 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 18:42:16,015 INFO 12847 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 18:42:16,015 INFO 12847 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 18:42:16,015 INFO 12847 [egg-watcher:agent] watcher start success
+2020-04-21 18:42:16,139 INFO 12847 [egg:core] dump config after ready, 6ms
+2020-04-21 18:45:02,193 WARN 12847 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/controller/home.js change
+2020-04-21 18:45:01,989 INFO 12847 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011695,"size":1642,"blocks":8,"atimeMs":1587465901916.1528,"mtimeMs":1587465901916.9724,"ctimeMs":1587465901916.9724,"birthtimeMs":1587391719071.9197,"atime":"2020-04-21T10:45:01.916Z","mtime":"2020-04-21T10:45:01.917Z","ctime":"2020-04-21T10:45:01.917Z","birthtime":"2020-04-20T14:08:39.072Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 18:47:15,780 WARN 12847 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/controller/home.js change
+2020-04-21 18:47:15,578 INFO 12847 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011695,"size":1651,"blocks":8,"atimeMs":1587466035515.819,"mtimeMs":1587466035516.8127,"ctimeMs":1587466035516.8127,"birthtimeMs":1587391719071.9197,"atime":"2020-04-21T10:47:15.516Z","mtime":"2020-04-21T10:47:15.517Z","ctime":"2020-04-21T10:47:15.517Z","birthtime":"2020-04-20T14:08:39.072Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 18:49:40,609 INFO 12885 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 18:49:41,079 INFO 12885 [egg:core] dump config after load, 4ms
+2020-04-21 18:49:41,158 INFO 12885 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 18:49:41,159 INFO 12885 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 18:49:41,159 INFO 12885 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 18:49:41,159 INFO 12885 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 18:49:41,159 INFO 12885 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 18:49:41,159 INFO 12885 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 18:49:41,159 INFO 12885 [egg-watcher:agent] watcher start success
+2020-04-21 18:49:41,323 INFO 12885 [egg:core] dump config after ready, 39ms
+2020-04-21 18:50:04,640 INFO 12885 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011692,"size":1515,"blocks":8,"atimeMs":1587466204574.3633,"mtimeMs":1587466204575.8645,"ctimeMs":1587466204575.8645,"birthtimeMs":1587391719069.7183,"atime":"2020-04-21T10:50:04.574Z","mtime":"2020-04-21T10:50:04.576Z","ctime":"2020-04-21T10:50:04.576Z","birthtime":"2020-04-20T14:08:39.070Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 18:50:04,847 WARN 12885 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/config/config.default.js change
+2020-04-21 18:50:44,422 INFO 12920 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 18:50:44,683 INFO 12920 [egg:core] dump config after load, 5ms
+2020-04-21 18:50:44,730 INFO 12920 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 18:50:44,730 INFO 12920 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 18:50:44,731 INFO 12920 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 18:50:44,731 INFO 12920 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 18:50:44,731 INFO 12920 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 18:50:44,731 INFO 12920 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 18:50:44,731 INFO 12920 [egg-watcher:agent] watcher start success
+2020-04-21 18:50:44,818 INFO 12920 [egg:core] dump config after ready, 6ms
+2020-04-21 18:52:27,329 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/router.js change
+2020-04-21 18:52:27,122 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011690,"size":458,"blocks":8,"atimeMs":1587466347059.6016,"mtimeMs":1587466347060.196,"ctimeMs":1587466347060.196,"birthtimeMs":1587391719069.1018,"atime":"2020-04-21T10:52:27.060Z","mtime":"2020-04-21T10:52:27.060Z","ctime":"2020-04-21T10:52:27.060Z","birthtime":"2020-04-20T14:08:39.069Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 18:52:49,140 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static","stat":{"dev":16777220,"mode":16877,"nlink":4,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21054170,"size":128,"blocks":0,"atimeMs":1587466369124.1387,"mtimeMs":1587394810735.1501,"ctimeMs":1587466369075.7236,"birthtimeMs":1587394645538.8818,"atime":"2020-04-21T10:52:49.124Z","mtime":"2020-04-20T15:00:10.735Z","ctime":"2020-04-21T10:52:49.076Z","birthtime":"2020-04-20T14:57:25.539Z"},"remove":false,"isDirectory":true,"isFile":false}
+2020-04-21 18:52:49,149 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/public","remove":true,"isDirectory":true,"isFile":false}
+2020-04-21 19:27:27,219 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/[object Object].txt rename
+2020-04-21 19:27:27,013 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/[object Object].txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21133600,"size":9,"blocks":8,"atimeMs":1587468446937.4155,"mtimeMs":1587468446937.5234,"ctimeMs":1587468446937.5234,"birthtimeMs":1587468446937.4155,"atime":"2020-04-21T11:27:26.937Z","mtime":"2020-04-21T11:27:26.938Z","ctime":"2020-04-21T11:27:26.938Z","birthtime":"2020-04-21T11:27:26.937Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:27:30,335 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/public","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21133606,"size":64,"blocks":0,"atimeMs":1587468450322.8147,"mtimeMs":1587468450322.8147,"ctimeMs":1587468450322.8147,"birthtimeMs":1587468450322.8147,"atime":"2020-04-21T11:27:30.323Z","mtime":"2020-04-21T11:27:30.323Z","ctime":"2020-04-21T11:27:30.323Z","birthtime":"2020-04-21T11:27:30.323Z"},"remove":false,"isDirectory":true,"isFile":false}
+2020-04-21 19:28:03,510 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/[object Object].txt change
+2020-04-21 19:28:03,306 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/[object Object].txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21133600,"size":9,"blocks":8,"atimeMs":1587468449321.7603,"mtimeMs":1587468483245.0613,"ctimeMs":1587468483245.0613,"birthtimeMs":1587468446937.4155,"atime":"2020-04-21T11:27:29.322Z","mtime":"2020-04-21T11:28:03.245Z","ctime":"2020-04-21T11:28:03.245Z","birthtime":"2020-04-21T11:27:26.937Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:29:36,746 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/[object Object].txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21133600,"size":9,"blocks":8,"atimeMs":1587468484279.9119,"mtimeMs":1587468576685.4163,"ctimeMs":1587468576685.4163,"birthtimeMs":1587468446937.4155,"atime":"2020-04-21T11:28:04.280Z","mtime":"2020-04-21T11:29:36.685Z","ctime":"2020-04-21T11:29:36.685Z","birthtime":"2020-04-21T11:27:26.937Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:29:36,950 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/[object Object].txt change
+2020-04-21 19:31:17,832 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/new.txt rename
+2020-04-21 19:31:17,627 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/new.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21134157,"size":5,"blocks":8,"atimeMs":1587468677547.091,"mtimeMs":1587468677547.352,"ctimeMs":1587468677547.352,"birthtimeMs":1587468677547.091,"atime":"2020-04-21T11:31:17.547Z","mtime":"2020-04-21T11:31:17.547Z","ctime":"2020-04-21T11:31:17.547Z","birthtime":"2020-04-21T11:31:17.547Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:33:07,112 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/controller/home.js change
+2020-04-21 19:33:06,908 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011695,"size":1686,"blocks":8,"atimeMs":1587468786843.332,"mtimeMs":1587468786845.1274,"ctimeMs":1587468786845.1274,"birthtimeMs":1587391719071.9197,"atime":"2020-04-21T11:33:06.843Z","mtime":"2020-04-21T11:33:06.845Z","ctime":"2020-04-21T11:33:06.845Z","birthtime":"2020-04-20T14:08:39.072Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:33:38,131 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/controller/home.js change
+2020-04-21 19:33:37,926 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011695,"size":1686,"blocks":8,"atimeMs":1587468817846.219,"mtimeMs":1587468817846.9275,"ctimeMs":1587468817846.9275,"birthtimeMs":1587391719071.9197,"atime":"2020-04-21T11:33:37.846Z","mtime":"2020-04-21T11:33:37.847Z","ctime":"2020-04-21T11:33:37.847Z","birthtime":"2020-04-20T14:08:39.072Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:33:44,184 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/controller/home.js change
+2020-04-21 19:33:43,983 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011695,"size":1686,"blocks":8,"atimeMs":1587468823971.2954,"mtimeMs":1587468823972.219,"ctimeMs":1587468823972.219,"birthtimeMs":1587391719071.9197,"atime":"2020-04-21T11:33:43.971Z","mtime":"2020-04-21T11:33:43.972Z","ctime":"2020-04-21T11:33:43.972Z","birthtime":"2020-04-20T14:08:39.072Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:34:12,170 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/cc.txt rename
+2020-04-21 19:34:11,969 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/cc.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21134427,"size":2,"blocks":8,"atimeMs":1587468851905.4185,"mtimeMs":1587468851905.5498,"ctimeMs":1587468851905.5498,"birthtimeMs":1587468851905.4185,"atime":"2020-04-21T11:34:11.905Z","mtime":"2020-04-21T11:34:11.906Z","ctime":"2020-04-21T11:34:11.906Z","birthtime":"2020-04-21T11:34:11.905Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:35:00,450 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011695,"size":1686,"blocks":8,"atimeMs":1587468900386.916,"mtimeMs":1587468900387.7327,"ctimeMs":1587468900387.7327,"birthtimeMs":1587391719071.9197,"atime":"2020-04-21T11:35:00.387Z","mtime":"2020-04-21T11:35:00.388Z","ctime":"2020-04-21T11:35:00.388Z","birthtime":"2020-04-20T14:08:39.072Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:35:00,901 WARN 12920 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/controller/home.js change
+2020-04-21 19:35:00,589 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011695,"size":1686,"blocks":8,"atimeMs":1587468900577.6926,"mtimeMs":1587468900578.634,"ctimeMs":1587468900578.634,"birthtimeMs":1587391719071.9197,"atime":"2020-04-21T11:35:00.578Z","mtime":"2020-04-21T11:35:00.579Z","ctime":"2020-04-21T11:35:00.579Z","birthtime":"2020-04-20T14:08:39.072Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:35:00,699 INFO 12920 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011695,"size":1686,"blocks":8,"atimeMs":1587468900687.4463,"mtimeMs":1587468900688.8281,"ctimeMs":1587468900688.8281,"birthtimeMs":1587391719071.9197,"atime":"2020-04-21T11:35:00.687Z","mtime":"2020-04-21T11:35:00.689Z","ctime":"2020-04-21T11:35:00.689Z","birthtime":"2020-04-20T14:08:39.072Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:35:08,701 INFO 13086 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 19:35:09,457 INFO 13086 [egg:core] dump config after load, 8ms
+2020-04-21 19:35:09,597 INFO 13086 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 19:35:09,598 INFO 13086 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 19:35:09,598 INFO 13086 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 19:35:09,598 INFO 13086 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 19:35:09,598 INFO 13086 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 19:35:09,598 INFO 13086 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 19:35:09,598 INFO 13086 [egg-watcher:agent] watcher start success
+2020-04-21 19:35:09,684 INFO 13086 [egg:core] dump config after ready, 16ms
+2020-04-21 19:38:20,097 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/44.txt rename
+2020-04-21 19:38:19,890 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/44.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21135693,"size":3,"blocks":8,"atimeMs":1587469099827.428,"mtimeMs":1587469099830.4792,"ctimeMs":1587469099830.4792,"birthtimeMs":1587469099827.428,"atime":"2020-04-21T11:38:19.827Z","mtime":"2020-04-21T11:38:19.830Z","ctime":"2020-04-21T11:38:19.830Z","birthtime":"2020-04-21T11:38:19.827Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 19:38:45,514 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/555.txt rename
+2020-04-21 19:38:45,310 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/555.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21135756,"size":5,"blocks":8,"atimeMs":1587469125087.0867,"mtimeMs":1587469125087.272,"ctimeMs":1587469125087.272,"birthtimeMs":1587469125087.0867,"atime":"2020-04-21T11:38:45.087Z","mtime":"2020-04-21T11:38:45.087Z","ctime":"2020-04-21T11:38:45.087Z","birthtime":"2020-04-21T11:38:45.087Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:05:15,379 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/23333.txt change
+2020-04-21 22:05:15,172 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/23333.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21054265,"size":6,"blocks":8,"atimeMs":1587477915109.412,"mtimeMs":1587477915110.4597,"ctimeMs":1587477915110.4597,"birthtimeMs":1587394722804.4192,"atime":"2020-04-21T14:05:15.109Z","mtime":"2020-04-21T14:05:15.110Z","ctime":"2020-04-21T14:05:15.110Z","birthtime":"2020-04-20T14:58:42.804Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:08:02,686 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/23333546456.txt change
+2020-04-21 22:08:02,484 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/23333546456.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21054326,"size":6,"blocks":8,"atimeMs":1587478082390.9138,"mtimeMs":1587478082391.9932,"ctimeMs":1587478082391.9932,"birthtimeMs":1587394810735.138,"atime":"2020-04-21T14:08:02.391Z","mtime":"2020-04-21T14:08:02.392Z","ctime":"2020-04-21T14:08:02.392Z","birthtime":"2020-04-20T15:00:10.735Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:09:56,924 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/23333546456.txt change
+2020-04-21 22:09:56,720 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/23333546456.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21054326,"size":1,"blocks":8,"atimeMs":1587478196657.963,"mtimeMs":1587478196658.094,"ctimeMs":1587478196658.094,"birthtimeMs":1587394810735.138,"atime":"2020-04-21T14:09:56.658Z","mtime":"2020-04-21T14:09:56.658Z","ctime":"2020-04-21T14:09:56.658Z","birthtime":"2020-04-20T15:00:10.735Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:10:11,799 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/23333.txt change
+2020-04-21 22:10:11,595 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/23333.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21054265,"size":1,"blocks":8,"atimeMs":1587478211511.3027,"mtimeMs":1587478211511.4814,"ctimeMs":1587478211511.4814,"birthtimeMs":1587394722804.4192,"atime":"2020-04-21T14:10:11.511Z","mtime":"2020-04-21T14:10:11.511Z","ctime":"2020-04-21T14:10:11.511Z","birthtime":"2020-04-20T14:58:42.804Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:10:17,133 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/23333546456.txt change
+2020-04-21 22:10:16,927 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/23333546456.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21054326,"size":1,"blocks":8,"atimeMs":1587478216904.5222,"mtimeMs":1587478216904.6826,"ctimeMs":1587478216904.6826,"birthtimeMs":1587394810735.138,"atime":"2020-04-21T14:10:16.905Z","mtime":"2020-04-21T14:10:16.905Z","ctime":"2020-04-21T14:10:16.905Z","birthtime":"2020-04-20T15:00:10.735Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:10:24,895 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/44.txt change
+2020-04-21 22:10:24,690 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/44.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21135693,"size":2,"blocks":8,"atimeMs":1587478224671.484,"mtimeMs":1587478224671.646,"ctimeMs":1587478224671.646,"birthtimeMs":1587469099827.428,"atime":"2020-04-21T14:10:24.671Z","mtime":"2020-04-21T14:10:24.672Z","ctime":"2020-04-21T14:10:24.672Z","birthtime":"2020-04-21T11:38:19.827Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:12:14,827 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/[object Object].txt rename
+2020-04-21 22:12:14,623 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/[object Object].txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:12:51,283 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/hello.txt rename
+2020-04-21 22:12:51,082 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/hello.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21144972,"size":5,"blocks":8,"atimeMs":1587478370988.6084,"mtimeMs":1587478370988.7788,"ctimeMs":1587478370988.7788,"birthtimeMs":1587478370988.6084,"atime":"2020-04-21T14:12:50.989Z","mtime":"2020-04-21T14:12:50.989Z","ctime":"2020-04-21T14:12:50.989Z","birthtime":"2020-04-21T14:12:50.989Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:14:27,835 INFO 13086 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/arena.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21145136,"size":5,"blocks":8,"atimeMs":1587478467768.8037,"mtimeMs":1587478467768.9565,"ctimeMs":1587478467768.9565,"birthtimeMs":1587478467768.8037,"atime":"2020-04-21T14:14:27.769Z","mtime":"2020-04-21T14:14:27.769Z","ctime":"2020-04-21T14:14:27.769Z","birthtime":"2020-04-21T14:14:27.769Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:14:28,036 WARN 13086 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/arena.txt rename
+2020-04-21 22:16:32,932 INFO 13329 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 22:16:33,247 INFO 13329 [egg:core] dump config after load, 4ms
+2020-04-21 22:16:33,300 INFO 13329 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 22:16:33,300 INFO 13329 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 22:16:33,305 INFO 13329 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 22:16:33,305 INFO 13329 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 22:16:33,306 INFO 13329 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 22:16:33,306 INFO 13329 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 22:16:33,307 INFO 13329 [egg-watcher:agent] watcher start success
+2020-04-21 22:16:33,449 INFO 13329 [egg:core] dump config after ready, 6ms
+2020-04-21 22:17:08,886 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/model/file.js change
+2020-04-21 22:17:08,678 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/model/file.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21016378,"size":246,"blocks":8,"atimeMs":1587478628601.855,"mtimeMs":1587478628605.165,"ctimeMs":1587478628605.165,"birthtimeMs":1587392436246.2341,"atime":"2020-04-21T14:17:08.602Z","mtime":"2020-04-21T14:17:08.605Z","ctime":"2020-04-21T14:17:08.605Z","birthtime":"2020-04-20T14:20:36.246Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:17:33,696 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/aaa.txt rename
+2020-04-21 22:17:33,492 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/aaa.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21145418,"size":4,"blocks":8,"atimeMs":1587478653428.589,"mtimeMs":1587478653428.7544,"ctimeMs":1587478653428.7544,"birthtimeMs":1587478653428.589,"atime":"2020-04-21T14:17:33.429Z","mtime":"2020-04-21T14:17:33.429Z","ctime":"2020-04-21T14:17:33.429Z","birthtime":"2020-04-21T14:17:33.429Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:18:42,867 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/bbbb.txt rename
+2020-04-21 22:18:42,665 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/bbbb.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21145646,"size":5,"blocks":8,"atimeMs":1587478722578.6672,"mtimeMs":1587478722578.7878,"ctimeMs":1587478722578.7878,"birthtimeMs":1587478722578.6672,"atime":"2020-04-21T14:18:42.579Z","mtime":"2020-04-21T14:18:42.579Z","ctime":"2020-04-21T14:18:42.579Z","birthtime":"2020-04-21T14:18:42.579Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:20:05,431 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/macbook.txt rename
+2020-04-21 22:20:05,227 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/macbook.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21145907,"size":7,"blocks":8,"atimeMs":1587478805163.8142,"mtimeMs":1587478805163.9504,"ctimeMs":1587478805163.9504,"birthtimeMs":1587478805163.8142,"atime":"2020-04-21T14:20:05.164Z","mtime":"2020-04-21T14:20:05.164Z","ctime":"2020-04-21T14:20:05.164Z","birthtime":"2020-04-21T14:20:05.164Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:21:38,207 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/macbook.txt change
+2020-04-21 22:21:38,006 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/macbook.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21145907,"size":8,"blocks":8,"atimeMs":1587478895909.9197,"mtimeMs":1587478897913.3447,"ctimeMs":1587478897913.3447,"birthtimeMs":1587478805163.8142,"atime":"2020-04-21T14:21:35.910Z","mtime":"2020-04-21T14:21:37.913Z","ctime":"2020-04-21T14:21:37.913Z","birthtime":"2020-04-21T14:20:05.164Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:22:23,891 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/static/macbook.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21145907,"size":7,"blocks":8,"atimeMs":1587478940247.1714,"mtimeMs":1587478943811.7068,"ctimeMs":1587478943811.7068,"birthtimeMs":1587478805163.8142,"atime":"2020-04-21T14:22:20.247Z","mtime":"2020-04-21T14:22:23.812Z","ctime":"2020-04-21T14:22:23.812Z","birthtime":"2020-04-21T14:20:05.164Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:22:24,092 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/macbook.txt change
+2020-04-21 22:23:18,055 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/newww.txt rename
+2020-04-21 22:23:17,854 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/newww.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21146237,"size":5,"blocks":8,"atimeMs":1587478997746.587,"mtimeMs":1587478997746.7043,"ctimeMs":1587478997746.7043,"birthtimeMs":1587478997746.587,"atime":"2020-04-21T14:23:17.747Z","mtime":"2020-04-21T14:23:17.747Z","ctime":"2020-04-21T14:23:17.747Z","birthtime":"2020-04-21T14:23:17.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:23:43,194 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/新媒体.txt rename
+2020-04-21 22:23:42,988 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/新媒体.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21146306,"size":7,"blocks":8,"atimeMs":1587479022925.0483,"mtimeMs":1587479022925.2117,"ctimeMs":1587479022925.2117,"birthtimeMs":1587479022925.0483,"atime":"2020-04-21T14:23:42.925Z","mtime":"2020-04-21T14:23:42.925Z","ctime":"2020-04-21T14:23:42.925Z","birthtime":"2020-04-21T14:23:42.925Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:24:03,144 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/ee3253455.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21146363,"size":5,"blocks":8,"atimeMs":1587479043031.6665,"mtimeMs":1587479043031.8418,"ctimeMs":1587479043031.8418,"birthtimeMs":1587479043031.6665,"atime":"2020-04-21T14:24:03.032Z","mtime":"2020-04-21T14:24:03.032Z","ctime":"2020-04-21T14:24:03.032Z","birthtime":"2020-04-21T14:24:03.032Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:24:03,345 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/ee3253455.txt rename
+2020-04-21 22:25:15,012 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/11.txt rename
+2020-04-21 22:25:14,812 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/11.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21146554,"size":4,"blocks":8,"atimeMs":1587479114750.4834,"mtimeMs":1587479114750.767,"ctimeMs":1587479114750.767,"birthtimeMs":1587479114750.4834,"atime":"2020-04-21T14:25:14.750Z","mtime":"2020-04-21T14:25:14.751Z","ctime":"2020-04-21T14:25:14.751Z","birthtime":"2020-04-21T14:25:14.750Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:25:42,411 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/hal.txt rename
+2020-04-21 22:25:42,209 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/hal.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21146630,"size":3,"blocks":8,"atimeMs":1587479142115.543,"mtimeMs":1587479142115.671,"ctimeMs":1587479142115.671,"birthtimeMs":1587479142115.543,"atime":"2020-04-21T14:25:42.116Z","mtime":"2020-04-21T14:25:42.116Z","ctime":"2020-04-21T14:25:42.116Z","birthtime":"2020-04-21T14:25:42.116Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:26:19,502 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/cancel.txt rename
+2020-04-21 22:26:19,300 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/cancel.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21146698,"size":6,"blocks":8,"atimeMs":1587479179196.3696,"mtimeMs":1587479179196.5286,"ctimeMs":1587479179196.5286,"birthtimeMs":1587479179196.3696,"atime":"2020-04-21T14:26:19.196Z","mtime":"2020-04-21T14:26:19.197Z","ctime":"2020-04-21T14:26:19.197Z","birthtime":"2020-04-21T14:26:19.196Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:34:28,346 WARN 13329 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/23333546456.txt rename
+2020-04-21 22:34:27,857 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/11.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,858 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/23333.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,858 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/新媒体.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,858 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/aaa.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,909 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/arena.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,910 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/cancel.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,910 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/bbbb.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,959 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/cc.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,960 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/hal.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,960 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/hello.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:27,960 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/ee3253455.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:28,006 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/new.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:28,007 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/newww.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:28,007 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/macbook.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:28,140 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/555.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:28,144 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/44.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:28,144 INFO 13329 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/23333546456.txt","remove":true,"isDirectory":false,"isFile":false}
+2020-04-21 22:34:41,464 INFO 13467 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 22:34:41,830 INFO 13467 [egg:core] dump config after load, 9ms
+2020-04-21 22:34:41,900 INFO 13467 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 22:34:41,900 INFO 13467 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 22:34:41,901 INFO 13467 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 22:34:41,901 INFO 13467 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 22:34:41,901 INFO 13467 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 22:34:41,901 INFO 13467 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 22:34:41,901 INFO 13467 [egg-watcher:agent] watcher start success
+2020-04-21 22:34:42,019 INFO 13467 [egg:core] dump config after ready, 6ms
+2020-04-21 22:38:05,167 WARN 13467 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/aaa.txt rename
+2020-04-21 22:38:04,957 INFO 13467 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/aaa.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21148568,"size":3,"blocks":8,"atimeMs":1587479884811.5442,"mtimeMs":1587479884811.7283,"ctimeMs":1587479884811.7283,"birthtimeMs":1587479884811.5442,"atime":"2020-04-21T14:38:04.812Z","mtime":"2020-04-21T14:38:04.812Z","ctime":"2020-04-21T14:38:04.812Z","birthtime":"2020-04-21T14:38:04.812Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:40:26,571 WARN 13467 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/bb.txt rename
+2020-04-21 22:40:26,368 INFO 13467 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/bb.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21149203,"size":2,"blocks":8,"atimeMs":1587480026302.1492,"mtimeMs":1587480026302.3125,"ctimeMs":1587480026302.3125,"birthtimeMs":1587480026302.1492,"atime":"2020-04-21T14:40:26.302Z","mtime":"2020-04-21T14:40:26.302Z","ctime":"2020-04-21T14:40:26.302Z","birthtime":"2020-04-21T14:40:26.302Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:40:35,666 WARN 13467 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/cc.txt rename
+2020-04-21 22:40:35,460 INFO 13467 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/cc.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21149245,"size":2,"blocks":8,"atimeMs":1587480035405.7114,"mtimeMs":1587480035405.8489,"ctimeMs":1587480035405.8489,"birthtimeMs":1587480035405.7114,"atime":"2020-04-21T14:40:35.406Z","mtime":"2020-04-21T14:40:35.406Z","ctime":"2020-04-21T14:40:35.406Z","birthtime":"2020-04-21T14:40:35.406Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:41:06,974 WARN 13467 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/ddd.txt rename
+2020-04-21 22:41:06,771 INFO 13467 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/ddd.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21149322,"size":3,"blocks":8,"atimeMs":1587480066658.8647,"mtimeMs":1587480066659.0112,"ctimeMs":1587480066659.0112,"birthtimeMs":1587480066658.8647,"atime":"2020-04-21T14:41:06.659Z","mtime":"2020-04-21T14:41:06.659Z","ctime":"2020-04-21T14:41:06.659Z","birthtime":"2020-04-21T14:41:06.659Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:41:33,781 WARN 13467 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/dddddddd.txt rename
+2020-04-21 22:41:33,576 INFO 13467 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/dddddddd.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21149390,"size":7,"blocks":8,"atimeMs":1587480093476.491,"mtimeMs":1587480093476.642,"ctimeMs":1587480093476.642,"birthtimeMs":1587480093476.491,"atime":"2020-04-21T14:41:33.476Z","mtime":"2020-04-21T14:41:33.477Z","ctime":"2020-04-21T14:41:33.477Z","birthtime":"2020-04-21T14:41:33.476Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:41:39,168 INFO 13467 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/fff.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21149409,"size":3,"blocks":8,"atimeMs":1587480099156.3584,"mtimeMs":1587480099158.306,"ctimeMs":1587480099158.306,"birthtimeMs":1587480099156.3584,"atime":"2020-04-21T14:41:39.156Z","mtime":"2020-04-21T14:41:39.158Z","ctime":"2020-04-21T14:41:39.158Z","birthtime":"2020-04-21T14:41:39.156Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 22:41:39,371 WARN 13467 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/fff.txt rename
+2020-04-21 22:42:05,746 WARN 13467 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/static/5555.txt rename
+2020-04-21 22:42:05,545 INFO 13467 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bidao/project/myself/rc-backend/app/static/5555.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21149467,"size":6,"blocks":8,"atimeMs":1587480125473.3967,"mtimeMs":1587480125473.511,"ctimeMs":1587480125473.511,"birthtimeMs":1587480125473.3967,"atime":"2020-04-21T14:42:05.473Z","mtime":"2020-04-21T14:42:05.474Z","ctime":"2020-04-21T14:42:05.474Z","birthtime":"2020-04-21T14:42:05.473Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 23:10:40,750 INFO 13790 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 23:10:41,323 INFO 13790 [egg:core] dump config after load, 4ms
+2020-04-21 23:10:41,396 INFO 13790 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 23:10:41,396 INFO 13790 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 23:10:41,397 INFO 13790 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 23:10:41,397 INFO 13790 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 23:10:41,397 INFO 13790 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 23:10:41,397 INFO 13790 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 23:10:41,397 INFO 13790 [egg-watcher:agent] watcher start success
+2020-04-21 23:10:41,572 INFO 13790 [egg:core] dump config after ready, 18ms
+2020-04-21 23:11:42,471 INFO 13816 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 23:11:42,948 INFO 13816 [egg:core] dump config after load, 5ms
+2020-04-21 23:11:43,009 INFO 13816 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 23:11:43,009 INFO 13816 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 23:11:43,010 INFO 13816 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 23:11:43,010 INFO 13816 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 23:11:43,010 INFO 13816 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 23:11:43,010 INFO 13816 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 23:11:43,010 INFO 13816 [egg-watcher:agent] watcher start success
+2020-04-21 23:11:43,103 INFO 13816 [egg:core] dump config after ready, 10ms
+2020-04-21 23:13:20,792 INFO 13839 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 23:13:21,191 INFO 13839 [egg:core] dump config after load, 3ms
+2020-04-21 23:13:21,239 INFO 13839 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 23:13:21,239 INFO 13839 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 23:13:21,240 INFO 13839 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 23:13:21,241 INFO 13839 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 23:13:21,241 INFO 13839 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 23:13:21,241 INFO 13839 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 23:13:21,242 INFO 13839 [egg-watcher:agent] watcher start success
+2020-04-21 23:13:21,313 INFO 13839 [egg:core] dump config after ready, 4ms
+2020-04-21 23:15:46,316 WARN 13839 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/config/config.default.js change
+2020-04-21 23:15:46,109 INFO 13839 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21011692,"size":1871,"blocks":8,"atimeMs":1587482146046.9778,"mtimeMs":1587482146048.0427,"ctimeMs":1587482146048.0427,"birthtimeMs":1587391719069.7183,"atime":"2020-04-21T15:15:46.047Z","mtime":"2020-04-21T15:15:46.048Z","ctime":"2020-04-21T15:15:46.048Z","birthtime":"2020-04-20T14:08:39.070Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 23:15:59,884 INFO 13916 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 23:16:00,225 INFO 13916 [egg:core] dump config after load, 4ms
+2020-04-21 23:16:00,274 INFO 13916 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 23:16:00,274 INFO 13916 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 23:16:00,274 INFO 13916 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 23:16:00,274 INFO 13916 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 23:16:00,275 INFO 13916 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 23:16:00,275 INFO 13916 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 23:16:00,275 INFO 13916 [egg-watcher:agent] watcher start success
+2020-04-21 23:16:00,359 INFO 13916 [egg:core] dump config after ready, 9ms
+2020-04-21 23:16:23,258 INFO 13932 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 23:16:23,512 INFO 13932 [egg:core] dump config after load, 12ms
+2020-04-21 23:16:23,546 INFO 13932 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 23:16:23,546 INFO 13932 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 23:16:23,546 INFO 13932 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 23:16:23,546 INFO 13932 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 23:16:23,547 INFO 13932 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 23:16:23,547 INFO 13932 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 23:16:23,548 INFO 13932 [egg-watcher:agent] watcher start success
+2020-04-21 23:16:23,638 INFO 13932 [egg:core] dump config after ready, 16ms
+2020-04-21 23:24:58,280 INFO 13932 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/io/controller/lock.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21152228,"size":770,"blocks":8,"atimeMs":1587482698213.5623,"mtimeMs":1587482698214.4373,"ctimeMs":1587482698214.4373,"birthtimeMs":1587481198463.1575,"atime":"2020-04-21T15:24:58.214Z","mtime":"2020-04-21T15:24:58.214Z","ctime":"2020-04-21T15:24:58.214Z","birthtime":"2020-04-21T14:59:58.463Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 23:24:58,483 WARN 13932 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/io/controller/lock.js change
+2020-04-21 23:25:41,001 WARN 13932 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/io/controller/lock.js change
+2020-04-21 23:25:40,796 INFO 13932 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/io/controller/lock.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21152228,"size":803,"blocks":8,"atimeMs":1587482740735.005,"mtimeMs":1587482740735.5286,"ctimeMs":1587482740735.5286,"birthtimeMs":1587481198463.1575,"atime":"2020-04-21T15:25:40.735Z","mtime":"2020-04-21T15:25:40.736Z","ctime":"2020-04-21T15:25:40.736Z","birthtime":"2020-04-21T14:59:58.463Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 23:26:25,126 WARN 13932 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/io/controller/lock.js change
+2020-04-21 23:26:24,923 INFO 13932 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/io/controller/lock.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21152228,"size":810,"blocks":8,"atimeMs":1587482784861.5283,"mtimeMs":1587482784862.1025,"ctimeMs":1587482784862.1025,"birthtimeMs":1587481198463.1575,"atime":"2020-04-21T15:26:24.862Z","mtime":"2020-04-21T15:26:24.862Z","ctime":"2020-04-21T15:26:24.862Z","birthtime":"2020-04-21T14:59:58.463Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-21 23:40:27,877 INFO 14044 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 23:40:28,285 INFO 14044 [egg:core] dump config after load, 10ms
+2020-04-21 23:40:28,352 INFO 14044 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 23:40:28,352 INFO 14044 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 23:40:28,353 INFO 14044 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 23:40:28,354 INFO 14044 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 23:40:28,354 INFO 14044 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 23:40:28,354 INFO 14044 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 23:40:28,354 INFO 14044 [egg-watcher:agent] watcher start success
+2020-04-21 23:40:28,449 INFO 14044 [egg:core] dump config after ready, 6ms
+2020-04-21 23:46:27,656 INFO 14131 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-21 23:46:28,094 INFO 14131 [egg:core] dump config after load, 6ms
+2020-04-21 23:46:28,152 INFO 14131 [egg-watcher] Start watching: ["/Users/bidao/project/myself/rc-backend/app","/Users/bidao/project/myself/rc-backend/config","/Users/bidao/project/myself/rc-backend/mocks","/Users/bidao/project/myself/rc-backend/mocks_proxy","/Users/bidao/project/myself/rc-backend/app.js"]
+2020-04-21 23:46:28,152 INFO 14131 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app"
+2020-04-21 23:46:28,152 INFO 14131 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/config"
+2020-04-21 23:46:28,152 INFO 14131 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks"
+2020-04-21 23:46:28,152 INFO 14131 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/mocks_proxy"
+2020-04-21 23:46:28,152 INFO 14131 [egg-watcher] Start watching: "/Users/bidao/project/myself/rc-backend/app.js"
+2020-04-21 23:46:28,153 INFO 14131 [egg-watcher:agent] watcher start success
+2020-04-21 23:46:28,248 INFO 14131 [egg:core] dump config after ready, 15ms
+2020-04-21 23:51:47,348 WARN 14131 [agent:development] reload worker because /Users/bidao/project/myself/rc-backend/app/io/controller/lock.js change
+2020-04-21 23:51:47,140 INFO 14131 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/bidao/project/myself/rc-backend/app/io/controller/lock.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":21152228,"size":856,"blocks":8,"atimeMs":1587484307077.656,"mtimeMs":1587484307078.3286,"ctimeMs":1587484307078.3286,"birthtimeMs":1587481198463.1575,"atime":"2020-04-21T15:51:47.078Z","mtime":"2020-04-21T15:51:47.078Z","ctime":"2020-04-21T15:51:47.078Z","birthtime":"2020-04-21T14:59:58.463Z"},"remove":false,"isDirectory":false,"isFile":true}

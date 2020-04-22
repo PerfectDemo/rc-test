@@ -1,0 +1,265 @@
+2020-04-20 22:48:21,036 INFO 7518 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:48:21,075 INFO 7518 [egg-multipart] stream mode enable
+2020-04-20 22:48:21,483 INFO 7518 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:48:21,490 INFO 7518 [egg-security] use csrf middleware
+2020-04-20 22:48:21,491 INFO 7518 [egg-security] use methodnoallow middleware
+2020-04-20 22:48:21,493 INFO 7518 [egg-security] use noopen middleware
+2020-04-20 22:48:21,494 INFO 7518 [egg-security] use nosniff middleware
+2020-04-20 22:48:21,494 INFO 7518 [egg-security] use xssProtection middleware
+2020-04-20 22:48:21,495 INFO 7518 [egg-security] use xframe middleware
+2020-04-20 22:48:21,495 INFO 7518 [egg-security] use dta middleware
+2020-04-20 22:48:21,495 INFO 7518 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:48:21,508 INFO 7518 [egg:core] dump config after load, 7ms
+2020-04-20 22:48:21,606 INFO 7518 [egg-watcher:application] watcher start success
+2020-04-20 22:48:21,679 INFO 7518 [egg:core] dump config after ready, 10ms
+2020-04-20 22:48:21,931 INFO 7519 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:48:21,968 INFO 7519 [egg-multipart] stream mode enable
+2020-04-20 22:48:22,693 INFO 7519 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:48:22,700 INFO 7519 [egg-security] use csrf middleware
+2020-04-20 22:48:22,701 INFO 7519 [egg-security] use methodnoallow middleware
+2020-04-20 22:48:22,702 INFO 7519 [egg-security] use noopen middleware
+2020-04-20 22:48:22,703 INFO 7519 [egg-security] use nosniff middleware
+2020-04-20 22:48:22,703 INFO 7519 [egg-security] use xssProtection middleware
+2020-04-20 22:48:22,703 INFO 7519 [egg-security] use xframe middleware
+2020-04-20 22:48:22,704 INFO 7519 [egg-security] use dta middleware
+2020-04-20 22:48:22,704 INFO 7519 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:48:22,719 INFO 7519 [egg:core] dump config after load, 9ms
+2020-04-20 22:48:22,838 INFO 7519 [egg-watcher:application] watcher start success
+2020-04-20 22:48:22,925 INFO 7519 [egg:core] dump config after ready, 4ms
+2020-04-20 22:48:31,312 INFO 7523 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:48:31,350 INFO 7523 [egg-multipart] stream mode enable
+2020-04-20 22:48:31,626 INFO 7523 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:48:31,629 INFO 7523 [egg-security] use csrf middleware
+2020-04-20 22:48:31,629 INFO 7523 [egg-security] use methodnoallow middleware
+2020-04-20 22:48:31,629 INFO 7523 [egg-security] use noopen middleware
+2020-04-20 22:48:31,630 INFO 7523 [egg-security] use nosniff middleware
+2020-04-20 22:48:31,630 INFO 7523 [egg-security] use xssProtection middleware
+2020-04-20 22:48:31,630 INFO 7523 [egg-security] use xframe middleware
+2020-04-20 22:48:31,631 INFO 7523 [egg-security] use dta middleware
+2020-04-20 22:48:31,631 INFO 7523 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:48:31,643 INFO 7523 [egg:core] dump config after load, 8ms
+2020-04-20 22:48:31,725 INFO 7523 [egg-watcher:application] watcher start success
+2020-04-20 22:48:31,790 INFO 7523 [egg:core] dump config after ready, 6ms
+2020-04-20 22:49:35,157 INFO 7533 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:49:35,244 INFO 7533 [egg-multipart] stream mode enable
+2020-04-20 22:49:35,790 INFO 7533 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:49:35,799 INFO 7533 [egg-security] use csrf middleware
+2020-04-20 22:49:35,800 INFO 7533 [egg-security] use methodnoallow middleware
+2020-04-20 22:49:35,801 INFO 7533 [egg-security] use noopen middleware
+2020-04-20 22:49:35,802 INFO 7533 [egg-security] use nosniff middleware
+2020-04-20 22:49:35,802 INFO 7533 [egg-security] use xssProtection middleware
+2020-04-20 22:49:35,805 INFO 7533 [egg-security] use xframe middleware
+2020-04-20 22:49:35,805 INFO 7533 [egg-security] use dta middleware
+2020-04-20 22:49:35,805 INFO 7533 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:49:35,848 INFO 7533 [egg:core] dump config after load, 36ms
+2020-04-20 22:49:36,005 INFO 7533 [egg-watcher:application] watcher start success
+2020-04-20 22:49:36,077 INFO 7533 [egg:core] dump config after ready, 7ms
+2020-04-20 22:49:44,048 INFO 7540 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:49:44,087 INFO 7540 [egg-multipart] stream mode enable
+2020-04-20 22:49:44,416 INFO 7540 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:49:44,423 INFO 7540 [egg-security] use csrf middleware
+2020-04-20 22:49:44,423 INFO 7540 [egg-security] use methodnoallow middleware
+2020-04-20 22:49:44,424 INFO 7540 [egg-security] use noopen middleware
+2020-04-20 22:49:44,425 INFO 7540 [egg-security] use nosniff middleware
+2020-04-20 22:49:44,425 INFO 7540 [egg-security] use xssProtection middleware
+2020-04-20 22:49:44,425 INFO 7540 [egg-security] use xframe middleware
+2020-04-20 22:49:44,425 INFO 7540 [egg-security] use dta middleware
+2020-04-20 22:49:44,425 INFO 7540 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:49:44,439 INFO 7540 [egg:core] dump config after load, 9ms
+2020-04-20 22:49:44,558 INFO 7540 [egg-watcher:application] watcher start success
+2020-04-20 22:49:44,611 INFO 7540 [egg:core] dump config after ready, 10ms
+2020-04-20 22:50:09,590 INFO 7562 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:50:09,623 INFO 7562 [egg-multipart] stream mode enable
+2020-04-20 22:50:10,021 INFO 7562 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:50:10,024 INFO 7562 [egg-security] use csrf middleware
+2020-04-20 22:50:10,024 INFO 7562 [egg-security] use methodnoallow middleware
+2020-04-20 22:50:10,025 INFO 7562 [egg-security] use noopen middleware
+2020-04-20 22:50:10,025 INFO 7562 [egg-security] use nosniff middleware
+2020-04-20 22:50:10,025 INFO 7562 [egg-security] use xssProtection middleware
+2020-04-20 22:50:10,025 INFO 7562 [egg-security] use xframe middleware
+2020-04-20 22:50:10,026 INFO 7562 [egg-security] use dta middleware
+2020-04-20 22:50:10,026 INFO 7562 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:50:10,034 INFO 7562 [egg:core] dump config after load, 5ms
+2020-04-20 22:50:10,089 INFO 7562 [egg-watcher:application] watcher start success
+2020-04-20 22:50:10,139 INFO 7562 [egg:core] dump config after ready, 6ms
+2020-04-20 22:50:54,513 INFO 7586 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:50:54,550 INFO 7586 [egg-multipart] stream mode enable
+2020-04-20 22:50:54,820 INFO 7586 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:50:54,823 INFO 7586 [egg-security] use csrf middleware
+2020-04-20 22:50:54,823 INFO 7586 [egg-security] use methodnoallow middleware
+2020-04-20 22:50:54,823 INFO 7586 [egg-security] use noopen middleware
+2020-04-20 22:50:54,824 INFO 7586 [egg-security] use nosniff middleware
+2020-04-20 22:50:54,824 INFO 7586 [egg-security] use xssProtection middleware
+2020-04-20 22:50:54,824 INFO 7586 [egg-security] use xframe middleware
+2020-04-20 22:50:54,824 INFO 7586 [egg-security] use dta middleware
+2020-04-20 22:50:54,824 INFO 7586 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:50:54,835 INFO 7586 [egg:core] dump config after load, 7ms
+2020-04-20 22:50:54,908 INFO 7586 [egg-watcher:application] watcher start success
+2020-04-20 22:50:54,950 INFO 7586 [egg:core] dump config after ready, 11ms
+2020-04-20 22:51:06,763 INFO 7615 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:51:06,790 INFO 7615 [egg-multipart] stream mode enable
+2020-04-20 22:51:07,199 INFO 7615 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:51:07,202 INFO 7615 [egg-security] use csrf middleware
+2020-04-20 22:51:07,203 INFO 7615 [egg-security] use methodnoallow middleware
+2020-04-20 22:51:07,203 INFO 7615 [egg-security] use noopen middleware
+2020-04-20 22:51:07,203 INFO 7615 [egg-security] use nosniff middleware
+2020-04-20 22:51:07,204 INFO 7615 [egg-security] use xssProtection middleware
+2020-04-20 22:51:07,204 INFO 7615 [egg-security] use xframe middleware
+2020-04-20 22:51:07,204 INFO 7615 [egg-security] use dta middleware
+2020-04-20 22:51:07,204 INFO 7615 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:51:07,220 INFO 7615 [egg:core] dump config after load, 8ms
+2020-04-20 22:51:07,310 INFO 7615 [egg-watcher:application] watcher start success
+2020-04-20 22:51:07,371 INFO 7615 [egg:core] dump config after ready, 10ms
+2020-04-20 22:51:38,874 INFO 7620 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:51:38,911 INFO 7620 [egg-multipart] stream mode enable
+2020-04-20 22:51:39,234 INFO 7620 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:51:39,236 INFO 7620 [egg-security] use csrf middleware
+2020-04-20 22:51:39,237 INFO 7620 [egg-security] use methodnoallow middleware
+2020-04-20 22:51:39,237 INFO 7620 [egg-security] use noopen middleware
+2020-04-20 22:51:39,238 INFO 7620 [egg-security] use nosniff middleware
+2020-04-20 22:51:39,238 INFO 7620 [egg-security] use xssProtection middleware
+2020-04-20 22:51:39,239 INFO 7620 [egg-security] use xframe middleware
+2020-04-20 22:51:39,239 INFO 7620 [egg-security] use dta middleware
+2020-04-20 22:51:39,239 INFO 7620 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:51:39,251 INFO 7620 [egg:core] dump config after load, 8ms
+2020-04-20 22:51:39,364 INFO 7620 [egg-watcher:application] watcher start success
+2020-04-20 22:51:39,413 INFO 7620 [egg:core] dump config after ready, 4ms
+2020-04-20 22:51:41,943 INFO 7624 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:51:41,976 INFO 7624 [egg-multipart] stream mode enable
+2020-04-20 22:51:42,261 INFO 7624 [egg-static] starting static serve /public/ -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:51:42,264 INFO 7624 [egg-security] use csrf middleware
+2020-04-20 22:51:42,264 INFO 7624 [egg-security] use methodnoallow middleware
+2020-04-20 22:51:42,264 INFO 7624 [egg-security] use noopen middleware
+2020-04-20 22:51:42,265 INFO 7624 [egg-security] use nosniff middleware
+2020-04-20 22:51:42,265 INFO 7624 [egg-security] use xssProtection middleware
+2020-04-20 22:51:42,265 INFO 7624 [egg-security] use xframe middleware
+2020-04-20 22:51:42,265 INFO 7624 [egg-security] use dta middleware
+2020-04-20 22:51:42,265 INFO 7624 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:51:42,273 INFO 7624 [egg:core] dump config after load, 4ms
+2020-04-20 22:51:42,346 INFO 7624 [egg-watcher:application] watcher start success
+2020-04-20 22:51:42,391 INFO 7624 [egg:core] dump config after ready, 9ms
+2020-04-20 22:53:48,838 INFO 7670 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:53:48,872 INFO 7670 [egg-multipart] stream mode enable
+2020-04-20 22:53:49,406 INFO 7670 [egg-static] starting static serve / -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:53:49,409 INFO 7670 [egg-security] use csrf middleware
+2020-04-20 22:53:49,410 INFO 7670 [egg-security] use methodnoallow middleware
+2020-04-20 22:53:49,411 INFO 7670 [egg-security] use noopen middleware
+2020-04-20 22:53:49,412 INFO 7670 [egg-security] use nosniff middleware
+2020-04-20 22:53:49,413 INFO 7670 [egg-security] use xssProtection middleware
+2020-04-20 22:53:49,414 INFO 7670 [egg-security] use xframe middleware
+2020-04-20 22:53:49,415 INFO 7670 [egg-security] use dta middleware
+2020-04-20 22:53:49,415 INFO 7670 [egg-security] compose 7 middlewares into one security middleware
+2020-04-20 22:53:49,427 INFO 7670 [egg:core] dump config after load, 6ms
+2020-04-20 22:53:49,463 INFO 7670 [egg-watcher:application] watcher start success
+2020-04-20 22:53:49,515 INFO 7670 [egg:core] dump config after ready, 5ms
+2020-04-20 22:54:22,442 INFO 7689 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:54:22,475 INFO 7689 [egg-multipart] stream mode enable
+2020-04-20 22:54:22,750 INFO 7689 [egg-static] starting static serve / -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:54:22,752 INFO 7689 [egg-security] use methodnoallow middleware
+2020-04-20 22:54:22,752 INFO 7689 [egg-security] use noopen middleware
+2020-04-20 22:54:22,753 INFO 7689 [egg-security] use nosniff middleware
+2020-04-20 22:54:22,754 INFO 7689 [egg-security] use xssProtection middleware
+2020-04-20 22:54:22,754 INFO 7689 [egg-security] use dta middleware
+2020-04-20 22:54:22,754 INFO 7689 [egg-security] compose 5 middlewares into one security middleware
+2020-04-20 22:54:22,773 INFO 7689 [egg:core] dump config after load, 13ms
+2020-04-20 22:54:22,833 INFO 7689 [egg-watcher:application] watcher start success
+2020-04-20 22:54:22,877 INFO 7689 [egg:core] dump config after ready, 8ms
+2020-04-20 22:55:13,403 INFO 7692 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:55:13,428 INFO 7692 [egg-multipart] stream mode enable
+2020-04-20 22:55:13,656 INFO 7692 [egg-static] starting static serve / -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:55:13,658 INFO 7692 [egg-security] use methodnoallow middleware
+2020-04-20 22:55:13,659 INFO 7692 [egg-security] use noopen middleware
+2020-04-20 22:55:13,659 INFO 7692 [egg-security] use nosniff middleware
+2020-04-20 22:55:13,659 INFO 7692 [egg-security] use xssProtection middleware
+2020-04-20 22:55:13,659 INFO 7692 [egg-security] use dta middleware
+2020-04-20 22:55:13,659 INFO 7692 [egg-security] compose 5 middlewares into one security middleware
+2020-04-20 22:55:13,668 INFO 7692 [egg:core] dump config after load, 5ms
+2020-04-20 22:55:13,717 INFO 7692 [egg-watcher:application] watcher start success
+2020-04-20 22:55:13,760 INFO 7692 [egg:core] dump config after ready, 7ms
+2020-04-20 22:55:41,672 INFO 7693 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:55:41,697 INFO 7693 [egg-multipart] stream mode enable
+2020-04-20 22:55:41,919 INFO 7693 [egg-static] starting static serve / -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:55:41,921 INFO 7693 [egg-security] use methodnoallow middleware
+2020-04-20 22:55:41,922 INFO 7693 [egg-security] use noopen middleware
+2020-04-20 22:55:41,922 INFO 7693 [egg-security] use nosniff middleware
+2020-04-20 22:55:41,922 INFO 7693 [egg-security] use xssProtection middleware
+2020-04-20 22:55:41,922 INFO 7693 [egg-security] use dta middleware
+2020-04-20 22:55:41,922 INFO 7693 [egg-security] compose 5 middlewares into one security middleware
+2020-04-20 22:55:41,930 INFO 7693 [egg:core] dump config after load, 4ms
+2020-04-20 22:55:41,972 INFO 7693 [egg-watcher:application] watcher start success
+2020-04-20 22:55:42,017 INFO 7693 [egg:core] dump config after ready, 4ms
+2020-04-20 22:56:28,281 INFO 7700 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:56:28,315 INFO 7700 [egg-multipart] stream mode enable
+2020-04-20 22:56:28,528 INFO 7700 [egg-static] starting static serve / -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:56:28,530 INFO 7700 [egg-security] use methodnoallow middleware
+2020-04-20 22:56:28,530 INFO 7700 [egg-security] use noopen middleware
+2020-04-20 22:56:28,530 INFO 7700 [egg-security] use nosniff middleware
+2020-04-20 22:56:28,531 INFO 7700 [egg-security] use xssProtection middleware
+2020-04-20 22:56:28,531 INFO 7700 [egg-security] use dta middleware
+2020-04-20 22:56:28,531 INFO 7700 [egg-security] compose 5 middlewares into one security middleware
+2020-04-20 22:56:28,540 INFO 7700 [egg:core] dump config after load, 6ms
+2020-04-20 22:56:28,578 INFO 7700 [egg-watcher:application] watcher start success
+2020-04-20 22:56:28,639 INFO 7700 [egg:core] dump config after ready, 9ms
+2020-04-20 22:57:24,783 INFO 7712 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:57:24,902 INFO 7712 [egg-multipart] stream mode enable
+2020-04-20 22:57:25,539 INFO 7712 [egg-static] starting static serve /public -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:57:25,542 INFO 7712 [egg-security] use methodnoallow middleware
+2020-04-20 22:57:25,543 INFO 7712 [egg-security] use noopen middleware
+2020-04-20 22:57:25,544 INFO 7712 [egg-security] use nosniff middleware
+2020-04-20 22:57:25,545 INFO 7712 [egg-security] use xssProtection middleware
+2020-04-20 22:57:25,546 INFO 7712 [egg-security] use dta middleware
+2020-04-20 22:57:25,546 INFO 7712 [egg-security] compose 5 middlewares into one security middleware
+2020-04-20 22:57:25,558 INFO 7712 [egg:core] dump config after load, 7ms
+2020-04-20 22:57:25,602 INFO 7712 [egg-watcher:application] watcher start success
+2020-04-20 22:57:25,701 INFO 7712 [egg:core] dump config after ready, 13ms
+2020-04-20 22:58:39,233 INFO 7718 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:58:39,261 INFO 7718 [egg-multipart] stream mode enable
+2020-04-20 22:58:39,694 INFO 7718 [egg-static] starting static serve /public -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:58:39,697 INFO 7718 [egg-security] use methodnoallow middleware
+2020-04-20 22:58:39,697 INFO 7718 [egg-security] use noopen middleware
+2020-04-20 22:58:39,697 INFO 7718 [egg-security] use nosniff middleware
+2020-04-20 22:58:39,697 INFO 7718 [egg-security] use xssProtection middleware
+2020-04-20 22:58:39,698 INFO 7718 [egg-security] use dta middleware
+2020-04-20 22:58:39,698 INFO 7718 [egg-security] compose 5 middlewares into one security middleware
+2020-04-20 22:58:39,711 INFO 7718 [egg:core] dump config after load, 7ms
+2020-04-20 22:58:39,759 INFO 7718 [egg-watcher:application] watcher start success
+2020-04-20 22:58:39,827 INFO 7718 [egg:core] dump config after ready, 6ms
+2020-04-20 22:59:37,242 INFO 7722 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:59:37,269 INFO 7722 [egg-multipart] stream mode enable
+2020-04-20 22:59:37,509 INFO 7722 [egg-static] starting static serve /public -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:59:37,511 INFO 7722 [egg-security] use methodnoallow middleware
+2020-04-20 22:59:37,511 INFO 7722 [egg-security] use noopen middleware
+2020-04-20 22:59:37,512 INFO 7722 [egg-security] use nosniff middleware
+2020-04-20 22:59:37,512 INFO 7722 [egg-security] use xssProtection middleware
+2020-04-20 22:59:37,512 INFO 7722 [egg-security] use dta middleware
+2020-04-20 22:59:37,512 INFO 7722 [egg-security] compose 5 middlewares into one security middleware
+2020-04-20 22:59:37,521 INFO 7722 [egg:core] dump config after load, 5ms
+2020-04-20 22:59:37,568 INFO 7722 [egg-watcher:application] watcher start success
+2020-04-20 22:59:37,600 INFO 7722 [egg:core] dump config after ready, 5ms
+2020-04-20 22:59:40,531 INFO 7723 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 22:59:40,562 INFO 7723 [egg-multipart] stream mode enable
+2020-04-20 22:59:40,794 INFO 7723 [egg-static] starting static serve /public -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 22:59:40,797 INFO 7723 [egg-security] use methodnoallow middleware
+2020-04-20 22:59:40,798 INFO 7723 [egg-security] use noopen middleware
+2020-04-20 22:59:40,799 INFO 7723 [egg-security] use nosniff middleware
+2020-04-20 22:59:40,800 INFO 7723 [egg-security] use xssProtection middleware
+2020-04-20 22:59:40,801 INFO 7723 [egg-security] use dta middleware
+2020-04-20 22:59:40,801 INFO 7723 [egg-security] compose 5 middlewares into one security middleware
+2020-04-20 22:59:40,810 INFO 7723 [egg:core] dump config after load, 4ms
+2020-04-20 22:59:40,874 INFO 7723 [egg-watcher:application] watcher start success
+2020-04-20 22:59:40,912 INFO 7723 [egg:core] dump config after ready, 4ms
+2020-04-20 23:01:27,450 INFO 7739 [egg:logger] init all loggers with options: {"dir":"/Users/bidao/project/myself/rc-backend/logs/rc-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rc-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-20 23:01:27,474 INFO 7739 [egg-multipart] stream mode enable
+2020-04-20 23:01:27,717 INFO 7739 [egg-static] starting static serve /public -> /Users/bidao/project/myself/rc-backend/app/public
+2020-04-20 23:01:27,720 INFO 7739 [egg-security] use methodnoallow middleware
+2020-04-20 23:01:27,720 INFO 7739 [egg-security] use noopen middleware
+2020-04-20 23:01:27,721 INFO 7739 [egg-security] use nosniff middleware
+2020-04-20 23:01:27,721 INFO 7739 [egg-security] use xssProtection middleware
+2020-04-20 23:01:27,721 INFO 7739 [egg-security] use dta middleware
+2020-04-20 23:01:27,721 INFO 7739 [egg-security] compose 5 middlewares into one security middleware
+2020-04-20 23:01:27,730 INFO 7739 [egg:core] dump config after load, 5ms
+2020-04-20 23:01:27,780 INFO 7739 [egg-watcher:application] watcher start success
+2020-04-20 23:01:28,212 INFO 7739 [egg:core] dump config after ready, 16ms
+2020-04-21 00:00:39,747 INFO 7739 [egg-logrotator] clean all log before 31 days
+2020-04-21 00:00:40,736 INFO 7739 [egg-logrotator] broadcast log-reload
+2020-04-21 00:00:40,736 INFO 7739 [egg-logrotator] rotate files success by DayRotator, files ["/Users/bidao/project/myself/rc-backend/logs/rc-backend/common-error.log -> /Users/bidao/project/myself/rc-backend/logs/rc-backend/common-error.log.2020-04-20","/Users/bidao/project/myself/rc-backend/logs/rc-backend/rc-backend-web.log -> /Users/bidao/project/myself/rc-backend/logs/rc-backend/rc-backend-web.log.2020-04-20","/Users/bidao/project/myself/rc-backend/logs/rc-backend/egg-web.log -> /Users/bidao/project/myself/rc-backend/logs/rc-backend/egg-web.log.2020-04-20","/Users/bidao/project/myself/rc-backend/logs/rc-backend/egg-schedule.log -> /Users/bidao/project/myself/rc-backend/logs/rc-backend/egg-schedule.log.2020-04-20","/Users/bidao/project/myself/rc-backend/logs/rc-backend/egg-agent.log -> /Users/bidao/project/myself/rc-backend/logs/rc-backend/egg-agent.log.2020-04-20"]
