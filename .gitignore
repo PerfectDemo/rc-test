@@ -1,6 +1,7 @@
 backend/node_modules
 backend/app/static/*
 backend/logs
+backend/run
 
 front/node_modules
 front/dist
